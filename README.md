@@ -1,0 +1,10 @@
+- oi eu sou a izza
+- estou estudando no alur
+- vou começar meus estudos em HTML
+
+  
+
+<!---
+Izzazn/Izzazn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
